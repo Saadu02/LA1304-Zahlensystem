@@ -42,7 +42,8 @@
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
-![image](https://github.com/Saadu02/LA1304-Zahlensystem/assets/111046257/65cc46f5-648f-451a-abb5-378c22d5318d) 
+![image](https://github.com/Saadu02/LA1304-Zahlensystem/assets/111046257/bb481304-75b4-4e7b-a674-3ef3f1c1c9eb)
+
 
 ## 2 Planen
 
