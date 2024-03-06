@@ -25,13 +25,14 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 2  |                 |      |                                    |
-| 3  |                 |      |                                    |
-| 4  |                 |      |                                    |
-| 5  |                 |      |                                    |
-| 6  |                 |      |                                    |
-| 7  |                 |      |                                    |
+| 1    |   muss |   funktional   | Das Programm soll mit C# geschrieben werden.|
+|2|muss|funktional| Der Benutzer muss Zahlen/Buchstaben eingeben können.
+| 3  |muss| funktional|Das Programm soll ein Ausgangsmenu haben, auf welchem der User die Übersetzungsrichtung des gewünschten Zahlensystems selektieren kann. |
+| 3  | muss| funktionasl| Der User soll mit einem Button selektieren können und mit diesem auf ein weiteres Fenster landen, wo die Rechnung stattfindet.  |
+| 4  | kann    | funktional| Der User soll in der lage sein mit einem Button auf das Startmenu zurück laden zu können und von dort aus neu zu selektieren. |
+| 5  |  kann  | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
+| 6  | kann| qualität |   Der User soll mit dem Programm Hexadezimal zu Dezimal und vize-versa umrechnen können.  |
+| 7  | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
 | 8  |                 |      |                                    |
 | 9  |                 |      |                                    |
 | 10 |                 |      |                                    |
