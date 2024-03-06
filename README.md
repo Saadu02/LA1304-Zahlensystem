@@ -23,24 +23,18 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |   muss |   funktional   | Das Programm soll mit C# geschrieben werden.|
-|2|muss|funktional| Der Benutzer muss Zahlen/Buchstaben eingeben können.
+| 1  |   muss |   funktional   | Das Programm soll mit C# geschrieben werden.|
+| 2  |muss|funktional| Der Benutzer muss Zahlen/Buchstaben eingeben können.
 | 3  |muss| funktional|Das Programm soll ein Ausgangsmenu haben, auf welchem der User die Übersetzungsrichtung des gewünschten Zahlensystems selektieren kann. |
-| 3  | muss| funktionasl| Der User soll mit einem Button selektieren können und mit diesem auf ein weiteres Fenster landen, wo die Rechnung stattfindet.  |
-| 4  | kann    | funktional| Der User soll in der lage sein mit einem Button auf das Startmenu zurück laden zu können und von dort aus neu zu selektieren. |
-| 5  |  kann  | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
-| 6  | kann| qualität |   Der User soll mit dem Programm Hexadezimal zu Dezimal und vice versa umrechnen können.  |
-| 7  | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
+| 4  | muss| funktionasl| Der User soll mit einem Button selektieren können und mit diesem auf ein weiteres Fenster landen, wo die Rechnung stattfindet.  |
+| 5  | kann    | funktional| Der User soll in der lage sein mit einem Button auf das Startmenu zurück laden zu können und von dort aus neu zu selektieren. |
+| 6  |  kann  | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
+| 7  | kann| qualität |   Der User soll mit dem Programm Hexadezimal zu Dezimal und vice versa umrechnen können.  |
 | 8  | muss | funktional| Man soll von Oktal zu Dezimal und vice versa rechnen können.|
 | 9  |                 |      |                                    |
-| 10 |                 |      |                                    |
-| 12 |                 |      |                                    |
-| 13 |                 |      |                                    |
-| 14 |                 |      |                                    |
-| 15 |                 |      |                                    |
-| 16 |                 |      |                                    |
-| 17 |                 |      |                                    |
-| 18 |                 |      |                                    |
+| 10  | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
+| 11 |                 |      |                                    |
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -64,10 +58,28 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 
 ## 2 Planen
 
-| Nr.| Frist | Zuständig | Zu erledigen:| 
-| --- | ----- | --------- | ------------ | 
-| 1|  6.3  | S/A | Hauptmenuerstellen, alle Fenster zu den Umrechnungen der Systeme erstellen und diese richtig unterordnen, rechnung von Hexadezimal zu Dezimal und umgekehrt coden|
-|   2    |    13.3       | S/A  | von Oktal zu Dezimal und Umgekehrt rechnen. |
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| ---- | ----- | --------- | ------------ | ------------- |
+| 2.A  | 06.03.2024 | S & A | Wörter einfügen | 20 min |
+| 3.A  | 06.03.2024 | S & A | Menü | 2 x 45 min |
+| 4.A  | 06.03.2024 | S & A | Button --> neues Fenster | 20 min |
+| 5.A  | 06.03.2024 | S & A | Button --> Menu Fenster | 35 min|
+| 6.A  | 06.03.2024 | S & A | Dialog Fehlermeldung | 30 min|
+| 7.A  | 06.03.2024 | S & A | Umrechnung Hexadezimal --> Dezimal | 2 x 45 min|
+| 8.A  | 13.03.2024 | S & A | Umrechnung Dezimal --> Hexadezimal | 2 x 45 min|
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+
+
+Total: 
+
+✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
+
+✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 
 ## 3 Entscheiden
@@ -76,10 +88,22 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 
 ## 4 Realisieren
 
-| Nr. | Datum | Zuständig |
-| ---- | ----- | --------- |
-| 1 |  6.3     |  S/A |    
-| 2|   6.3    |  S/A |         
+
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 2.A  | 06.03.2024 |           |               |                   |
+| 3.A  | 06.03.2024 |           |               |                   |
+| 4.A  | 06.03.2024 |           |               |                   |
+| 5.A  | 06.03.2024 |           |               |                   |
+| 6.A  | 06.03.2024 |           |               |                   |
+| 7.A  | 13.03.2024 |           |               |                   |
+| 8.A  | 13.03.2024 |           |               |                   |
+| 9.A  | 13.03.2024 |           |               |                   |
+| 10.A  |       |           |               |                   |
+| 11.A  |       |           |               |                   |
+| 12.A  |       |           |               |                   |
+
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -94,14 +118,6 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
