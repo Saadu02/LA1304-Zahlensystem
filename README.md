@@ -69,10 +69,7 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 8.A  | 13.03.2024 | S & A | Umrechnung Dezimal --> Hexadezimal | 2 x 45 min|
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
+
 
 
 Total: 
