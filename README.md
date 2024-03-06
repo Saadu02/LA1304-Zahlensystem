@@ -7,8 +7,8 @@ Sathana Suganthasri, Ava Hassani
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 28.2 | 0.0.1   | Projekt ausgewählt, Repository erstellt, repetiert wie man von Hexadezimal zu Dezimal rechnet, erste Anforderugnen erstellt |
-| 6.3      | 0.0.2  |Anforderugne vollendet, Zahelnsysteme ausgewählt, |
+| 28.02 | 0.0.1 | Projekt ausgewählt, Repository erstellt, repetiert wie man von Hexadezimal zu Dezimal rechnet, erste Anforderugnen erstellt |
+| 6.03  | 0.0.2 |Anforderugne vollendet, Zahelnsysteme ausgewählt, |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -31,9 +31,9 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 6  |  kann  | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
 | 7  | kann| qualität |   Der User soll mit dem Programm Hexadezimal zu Dezimal und vice versa umrechnen können.  |
 | 8  | muss | funktional| Man soll von Oktal zu Dezimal und vice versa rechnen können.|
-| 9  |                 |      |                                    |
+| 9  | muss|funktional|Man soll von Binär zu Dezimal und vice versa rechnen können.|
 | 10  | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
-| 11 |                 |      |                                    |
+| 11 | | | |
 
 
 
@@ -65,10 +65,10 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 4.A  | 06.03.2024 | S & A | Button --> neues Fenster | 20 min |
 | 5.A  | 06.03.2024 | S & A | Button --> Menu Fenster | 35 min|
 | 6.A  | 06.03.2024 | S & A | Dialog Fehlermeldung | 30 min|
-| 7.A  | 06.03.2024 | S & A | Umrechnung Hexadezimal --> Dezimal | 2 x 45 min|
-| 8.A  | 13.03.2024 | S & A | Umrechnung Dezimal --> Hexadezimal | 2 x 45 min|
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
+| 7.A  | 06.03.2024 | S & A | Umrechnung Hexadezimal --> Dezimal | 2 x 45 min |
+| 8.A  | 13.03.2024 | S & A | Umrechnung Dezimal --> Hexadezimal | 2 x 45 min |
+| 9.A  | 13.03.2024 | S & A | Umrechnung Binär --> Dezimal | 2 x 45 min |      
+| 10.A | 13.03.2024 | S & A | Umrechnung Dezimal --> Binär | 2x 45 min |
 
 
 
@@ -96,7 +96,7 @@ Total:
 | 7.A  | 13.03.2024 |           |               |                   |
 | 8.A  | 13.03.2024 |           |               |                   |
 | 9.A  | 13.03.2024 |           |               |                   |
-| 10.A  |       |           |               |                   |
+| 10.A | 13.03.2024 |           |               |                   |
 | 11.A  |       |           |               |                   |
 | 12.A  |       |           |               |                   |
 
