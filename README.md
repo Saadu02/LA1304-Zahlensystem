@@ -21,12 +21,28 @@
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
-### 1.2 User Stories
+### 1.2 Anforderungen
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 2  |                 |      |                                    |
+| 3  |                 |      |                                    |
+| 4  |                 |      |                                    |
+| 5  |                 |      |                                    |
+| 6  |                 |      |                                    |
+| 7  |                 |      |                                    |
+| 8  |                 |      |                                    |
+| 9  |                 |      |                                    |
+| 10 |                 |      |                                    |
+| 12 |                 |      |                                    |
+| 13 |                 |      |                                    |
+| 14 |                 |      |                                    |
+| 15 |                 |      |                                    |
+| 16 |                 |      |                                    |
+| 17 |                 |      |                                    |
+| 18 |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
