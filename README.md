@@ -29,9 +29,9 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 3  | muss| funktionasl| Der User soll mit einem Button selektieren können und mit diesem auf ein weiteres Fenster landen, wo die Rechnung stattfindet.  |
 | 4  | kann    | funktional| Der User soll in der lage sein mit einem Button auf das Startmenu zurück laden zu können und von dort aus neu zu selektieren. |
 | 5  |  kann  | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
-| 6  | kann| qualität |   Der User soll mit dem Programm Hexadezimal zu Dezimal und vize-versa umrechnen können.  |
+| 6  | kann| qualität |   Der User soll mit dem Programm Hexadezimal zu Dezimal und vice versa umrechnen können.  |
 | 7  | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
-| 8  |                 |      |                                    |
+| 8  | muss | funktional| Man soll von Oktal zu Dezimal und vice versa rechnen können.|
 | 9  |                 |      |                                    |
 | 10 |                 |      |                                    |
 | 12 |                 |      |                                    |
