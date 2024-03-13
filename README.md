@@ -8,7 +8,7 @@ Sathana Suganthasri, Ava Hassani
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 28.02 | 0.0.1 | Projekt ausgewählt, Repository erstellt, repetiert wie man von Hexadezimal zu Dezimal rechnet, erste Anforderugnen erstellt |
-| 6.03  | 0.0.2 |Anforderugne vollendet, Zahelnsysteme ausgewählt, |
+| 6.03  | 0.0.2 | Anforderugne vollendet, Zahelnsysteme ausgewählt, |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -23,16 +23,16 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  |   muss |   funktional   | Das Programm soll mit C# geschrieben werden.|
-| 2  |muss|funktional| Der Benutzer muss Zahlen/Buchstaben eingeben können.
-| 3  |muss| funktional|Das Programm soll ein Ausgangsmenu haben, auf welchem der User die Übersetzungsrichtung des gewünschten Zahlensystems selektieren kann. |
-| 4  | muss| funktionasl| Der User soll mit einem Button selektieren können und mit diesem auf ein weiteres Fenster landen, wo die Rechnung stattfindet.  |
-| 5  | kann    | funktional| Der User soll in der lage sein mit einem Button auf das Startmenu zurück laden zu können und von dort aus neu zu selektieren. |
-| 6  |  kann  | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
-| 7  | kann| qualität |   Der User soll mit dem Programm Hexadezimal zu Dezimal und vice versa umrechnen können.  |
-| 8  | muss | funktional| Man soll von Oktal zu Dezimal und vice versa rechnen können.|
-| 9  | muss|funktional|Man soll von Binär zu Dezimal und vice versa rechnen können.|
-| 10  | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
+| 1  | muss | funktional | Das Programm soll mit C# geschrieben werden.|
+| 2  | muss | funktional | Der Benutzer muss Zahlen/Buchstaben eingeben können.
+| 3  | muss | funktional | Das Programm soll ein Ausgangsmenu haben, auf welchem der User die Übersetzungsrichtung des gewünschten Zahlensystems selektieren kann. |
+| 4  | muss | funktional | Der User soll mit einem Button selektieren können und mit diesem auf ein weiteres Fenster landen, wo die Rechnung stattfindet.  |
+| 5  | kann | funktional | Der User soll in der lage sein mit einem Button auf das Startmenu zurück laden zu können und von dort aus neu zu selektieren. |
+| 6  | kann | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
+| 7  | kann | qualität |  Der User soll mit dem Programm Hexadezimal zu Dezimal und vice versa umrechnen können.  |
+| 8  | muss | funktional | Man soll von Oktal zu Dezimal und vice versa rechnen können.|
+| 9  | muss | funktional |Man soll von Binär zu Dezimal und vice versa rechnen können.|
+| 10 | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
 | 11 | | | |
 
 
