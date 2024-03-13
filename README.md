@@ -36,7 +36,6 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 11 | | | |
 
 
-
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
@@ -91,7 +90,6 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 10.A | 13.03.2024 | S & A | Umrechnung Dezimal --> Binär | 2x 45 min |
 
 
-
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -108,18 +106,16 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 2.A  | 06.03.2024 |           |               |                   |
-| 3.A  | 06.03.2024 |           |               |                   |
-| 4.A  | 06.03.2024 |           |               |                   |
-| 5.A  | 06.03.2024 |           |               |                   |
-| 6.A  | 06.03.2024 |           |               |                   |
-| 7.A  | 13.03.2024 |           |               |                   |
-| 8.A  | 13.03.2024 |           |               |                   |
-| 9.A  | 13.03.2024 |           |               |                   |
-| 10.A | 13.03.2024 |           |               |                   |
+| 2.A  | 06.03.2024 | S & A | 20 min | 10 min |
+| 3.A  | 06.03.2024 | S & A | 2 x 45 min | 2 x 45 min |
+| 4.A  | 06.03.2024 | S & A | 35 min | 30 min |
+| 5.A  | 06.03.2024 | S & A | 30 min | 30 min |
+| 6.A  | 06.03.2024 | S & A | 2 x 45 min | 2 x 45 min |
+| 7.A  | 13.03.2024 | S & A | 2 x 45 min | 45 min |
+| 8.A  | 13.03.2024 | S & A | 2 x 45 min | 45 min|
+| 9.A  | 13.03.2024 | S & A | 2 x 45 min | 45 min|
+| 10.A | 13.03.2024 | S & A | 2 x 45 min | 45 min|
 | 11.A  |       |           |               |                   |
-| 12.A  |       |           |               |                   |
-
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
@@ -130,7 +126,26 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 2.1  | 20.03.2024 |          | Sathana Suganthasri|
+| 3.1  | 20.03.2024 |          | Sathana Suganthasri|
+| 3.2  | 20.03.2024 |          | Sathana Suganthasri|
+| 3.3  | 20.03.2024 |          | Sathana Suganthasri|
+| 3.4  | 20.03.2024 |          | Sathana Suganthasri|
+| 3.5  | 20.03.2024 |          | Sathana Suganthasri|
+| 3.6  | 20.03.2024 |          | Sathana Suganthasri|
+| 4.1  | 20.03.2024 |          | Sathana Suganthasri|
+| 5.1  | 20.03.2024 |          | Sathana Suganthasri|
+| 5.2  | 20.03.2024 |          | Sathana Suganthasri|
+| 5.3  | 20.03.2024 |          | Ava Hassani |
+| 5.4  | 20.03.2024 |          | Ava Hassani |
+| 5.5  | 20.03.2024 |          | Ava Hassani |
+| 5.6  | 20.03.2024 |          | Ava Hassani |
+| 6.1  | 20.03.2024 |          | Ava Hassani |
+| 7.1  | 20.03.2024 |          | Ava Hassani |
+| 7.2  | 20.03.2024 |          | Ava Hassani |
+| 8.1  | 20.03.2024 |          | Ava Hassani |
+| 8.2  | 20.03.2024 |          | Ava Hassani |
+| 9.1  | 20.03.2024 |          | Ava Hassani |
+| 9.2  | 20.03.2024 |          | Ava Hassani |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
