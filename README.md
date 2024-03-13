@@ -23,8 +23,8 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  | muss | funktional | Das Programm soll mit C# geschrieben werden.|
-| 2  | muss | funktional | Der Benutzer muss Zahlen/Buchstaben eingeben können.
+| 1  | muss | funktional | Das Programm soll mit C# geschrieben werden. |
+| 2  | muss | funktional | Der Benutzer muss Zahlen/Buchstaben eingeben können. |
 | 3  | muss | funktional | Das Programm soll ein Ausgangsmenu haben, auf welchem der User die Übersetzungsrichtung des gewünschten Zahlensystems selektieren kann. |
 | 4  | muss | funktional | Der User soll mit einem Button selektieren können und mit diesem auf ein weiteres Fenster landen, wo die Rechnung stattfindet.  |
 | 5  | kann | funktional | Der User soll in der lage sein mit einem Button auf das Startmenu zurück laden zu können und von dort aus neu zu selektieren. |
@@ -114,11 +114,3 @@ Total:
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
-
-
-
