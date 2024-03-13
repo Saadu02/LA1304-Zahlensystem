@@ -31,7 +31,7 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 6  | kann | qualität | Bei einer ungültigen Eingabe soll ein Fenster aufklappen, welches dies dem User sagt. |
 | 7  | kann | qualität |  Der User soll mit dem Programm Hexadezimal zu Dezimal und vice versa umrechnen können.  |
 | 8  | muss | funktional | Man soll von Oktal zu Dezimal und vice versa rechnen können.|
-| 9  | muss | funktional |Man soll von Binär zu Dezimal und vice versa rechnen können.|
+| 9  | muss | funktional | Man soll von Binär zu Dezimal und vice versa rechnen können.|
 | 10 | muss | qualität |  Das Programm soll ein ansprechendes Design haben. |
 | 11 | | | |
 
@@ -43,8 +43,28 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 2.1  | Fenster Hexadezimal --> Dezimal | a93b | 43323 |
+| 3.1  | Menu | Button klicken auf Dezimal --> Hexadezimal | DH Fenstern |
+| 3.2  | Menu | Button klicken auf Hexadezimal --> Dezimal | HD Fenster |
+| 3.3  | Menu | Button klicken auf Dezimal --> Oktal | DO Fenster |
+| 3.4  | Menu | Button klicken auf Oktal --> Dezimal | OD Fenster |
+| 3.5  | Menu | Button klicken auf Dezimal --> Binär | DB Fenster |
+| 3.6  | Menu | Button klicken auf Hexadezimal --> Dezimal | BD Fenster |
+| 4.1  | Menu | Button irgendwelche Button klicken | Fenster mit Rechnung |
+| 5.1  | Rechnungsfenster von DH | "Zurück" Button klicken | Menu |
+| 5.2  | Rechnungsfenster von HD | "Zurück" Button klicken | Menu |
+| 5.3  | Rechnungsfenster von DO | "Zurück" Button klicken | Menu |
+| 5.4  | Rechnungsfenster von OD | "Zurück" Button klicken | Menu |
+| 5.5  | Rechnungsfenster von DB | "Zurück" Button klicken | Menu |
+| 5.6  | Rechnungsfenster von BD | "Zurück" Button klicken | Menu |
+| 6.1  | Rechnungsfenster von HD | dioj2o1 | Diese Eingabe enthält keine Hexadezimalzahlen! |
+| 7.1  | Rechnungsfenster von HD | 4D2 | 1234 |
+| 7.2  | Rechnungsfenster von DH | 1234 | 4D2 |
+| 8.1  | Rechnungsfenster von OD | 1234 | 2322 |
+| 8.2  | Rechnungsfenster von DO | 2322 | 1234 |
+| 9.1  | Rechnungsfenster von BD | 11001 | 25 |
+| 9.2  | Rechnungsfenster von DB | 25 | 11001 |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
