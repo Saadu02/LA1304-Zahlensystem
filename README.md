@@ -59,8 +59,8 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 6.1  | Rechnungsfenster von HD | dioj2o1 | Diese Eingabe enthält ungültige Zeichen! |
 | 7.1  | Rechnungsfenster von HD | 4D2 | 1234 |
 | 7.2  | Rechnungsfenster von DH | 1234 | 4D2 |
-| 8.1  | Rechnungsfenster von OD | 1234 | 2322 |
-| 8.2  | Rechnungsfenster von DO | 2322 | 1234 |
+| 8.1  | Rechnungsfenster von DO | 1234 | 2322 |
+| 8.2  | Rechnungsfenster von OD | 2322 | 1234 |
 | 9.1  | Rechnungsfenster von BD | 11001 | 25 |
 | 9.2  | Rechnungsfenster von DB | 25 | 11001 |
 
