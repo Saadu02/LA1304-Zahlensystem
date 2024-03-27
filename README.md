@@ -56,7 +56,7 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 5.4  | Rechnungsfenster von OD | "Zurück" Button klicken | Menu |
 | 5.5  | Rechnungsfenster von DB | "Zurück" Button klicken | Menu |
 | 5.6  | Rechnungsfenster von BD | "Zurück" Button klicken | Menu |
-| 6.1  | Rechnungsfenster von HD | dioj2o1 | Diese Eingabe enthält keine Hexadezimalzahlen! |
+| 6.1  | Rechnungsfenster von HD | dioj2o1 | Diese Eingabe enthält ungültige Zeichen! |
 | 7.1  | Rechnungsfenster von HD | 4D2 | 1234 |
 | 7.2  | Rechnungsfenster von DH | 1234 | 4D2 |
 | 8.1  | Rechnungsfenster von OD | 1234 | 2322 |
