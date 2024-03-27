@@ -55,12 +55,8 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 9.1  | Rechnungsfenster von BD | 11001 | 25 |
 | 9.2  | Rechnungsfenster von DB | 25 | 11001 |
 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
 ![image](https://github.com/Saadu02/LA1304-Zahlensystem/assets/111046257/bb481304-75b4-4e7b-a674-3ef3f1c1c9eb)
 
 ![WhatsApp Bild 2024-02-28 um 11 17 45_b3453bfa](https://github.com/Saadu02/LA1304-Zahlensystem/assets/111046257/7417de29-673e-4452-b269-78ab32cf3bb7)
@@ -104,7 +100,6 @@ Wir haben uns entschieden das Programm mit C# zu arbeiten. Wir haben uns entschi
 | 9.A  | 13.03.2024 | S & A | 2 x 45 min | 15 min |
 | 9.B  | 13.03.2024 | S & A | 2 x 45 min | 15 min |
 | 10.A | 20.03.2024 | S & A | 45 min | 2 x 45 min |
-
 
 ## 5 Kontrollieren
 
