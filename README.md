@@ -6,7 +6,8 @@ Sathana Suganthasri, Ava Hassani
 | ----- | ------- | ------------------------------------------------------------ |
 | 28.02 | 0.0.1 | Projekt ausgewählt, Repository erstellt, repetiert wie man von Hexadezimal zu Dezimal rechnet, erste Anforderugnen erstellt |
 | 06.03 | 0.0.2 | Anforderungen vollendet, Zahelnsysteme ausgewählt, |
-| 27.03 | 0.0.1 | Projekt fertig programmiert. |
+| 27.03 | 0.0.3 | Projekt fertig programmiert. |
+| 27.03 | 0.0.4 | Dokumentation fertig erstellt. |
 
 ## 1 Informieren
 
