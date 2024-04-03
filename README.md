@@ -71,14 +71,14 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 3.A  | 06.03.2024 | S & A | Menü | 2 x 45 min |
 | 4.A  | 06.03.2024 | S & A | Button --> neues Fenster | 20 min |
 | 5.A  | 06.03.2024 | S & A | Button --> Menu Fenster | 35 min|
-| 6.A  | 06.03.2024 | S & A | Dialog Fehlermeldung | 30 min|
-| 7.A  | 06.03.2024 | S & A | Umrechnung Hexadezimal --> Dezimal | 2 x 45 min |
+| 6.A  | 13.03.2024 | S & A | Dialog Fehlermeldung | 30 min|
+| 7.A  | 13.03.2024 | S & A | Umrechnung Hexadezimal --> Dezimal | 2 x 45 min |
 | 7.B  | 13.03.2024 | S & A | Umrechnung Dezimal --> Hexadezimal | 2 x 45 min |
 | 8.A  | 13.03.2024 | S & A | Umrechnung Binär --> Dezimal | 2 x 45 min |      
 | 8.B  | 13.03.2024 | S & A | Umrechnung Dezimal --> Binär | 2x 45 min |
-| 9.A  | 13.03.2024 | S & A | Umrechnung Oktal --> Dezimal | 2x 45 min |
-| 9.B  | 13.03.2024 | S & A | Umrechnung Dezimal --> Oktal | 2x 45 min |
-| 10.A | 20.03.2024 | S & A | Design | 45 min |
+| 9.A  | 20.03.2024 | S & A | Umrechnung Oktal --> Dezimal | 2x 45 min |
+| 9.B  | 20.03.2024 | S & A | Umrechnung Dezimal --> Oktal | 2x 45 min |
+| 10.A | 27.03.2024 | S & A | Design | 45 min |
 
 ## 3 Entscheiden
 
@@ -93,14 +93,14 @@ Wir haben uns entschieden das Programm mit C# zu arbeiten. Wir haben uns entschi
 | 3.A  | 06.03.2024 | S & A | 2 x 45 min | 2 x 45 min |
 | 4.A  | 06.03.2024 | S & A | 35 min | 30 min |
 | 5.A  | 06.03.2024 | S & A | 30 min | 30 min |
-| 6.A  | 06.03.2024 | S & A | 2 x 45 min | 2 x 45 min |
+| 6.A  | 13.03.2024 | S & A | 2 x 45 min | 2 x 45 min |
 | 7.A  | 13.03.2024 | S & A | 2 x 45 min | 45 min |
 | 7.B  | 13.03.2024 | S & A | 2 x 45 min | 45 min |
-| 8.A  | 13.03.2024 | S & A | 2 x 45 min | 20 min |
-| 8.B  | 13.03.2024 | S & A | 2 x 45 min | 20 min |
-| 9.A  | 13.03.2024 | S & A | 2 x 45 min | 15 min |
-| 9.B  | 13.03.2024 | S & A | 2 x 45 min | 15 min |
-| 10.A | 20.03.2024 | S & A | 45 min | 2 x 45 min |
+| 8.A  | 20.03.2024 | S & A | 2 x 45 min | 20 min |
+| 8.B  | 20.03.2024 | S & A | 2 x 45 min | 20 min |
+| 9.A  | 20.03.2024 | S & A | 2 x 45 min | 25 min |
+| 9.B  | 20.03.2024 | S & A | 2 x 45 min | 15 min |
+| 10.A | 27.03.2024 | S & A | 45 min | 2 x 45 min |
 
 ## 5 Kontrollieren
 
