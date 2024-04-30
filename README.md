@@ -91,7 +91,7 @@ umrechnung:
 
 ## 3 Entscheiden
 
-Wir haben uns entschieden das Programm mit C# zu arbeiten. Wir haben uns entschieden das Zahlensystem Hexadezimal, Dezimal, Oktal und Binär zu verwenden. 
+Wir haben uns entschieden das Programm mit C# zu arbeiten. Danach haben uns wir uns entschieden das Zahlensystem Hexadezimal, Dezimal, Oktal und Binär zu verwenden. 
 
 ## 4 Realisieren
 
