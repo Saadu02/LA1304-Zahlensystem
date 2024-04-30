@@ -13,7 +13,8 @@ Sathana Suganthasri, Ava Hassani
 
 ### 1.1 Ihr Projekt
 
-Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme in (benutzerfreundliche) Dezimalzahlen, als auch zurück, rechnen kann.
+Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme in (benutzerfreundliche) Dezimalzahlen, als auch zurück, rechnen kann. Folgende Zahlensystem verwenden wir um umzuwandeln:
+Hexadezimal, Dezimal, Oktal und Binär.
 
 ### 1.2 Anforderungen
 
