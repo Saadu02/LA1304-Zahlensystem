@@ -40,8 +40,8 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 3.3  | Menu | Button klicken auf Dezimal --> Oktal | DO Fenster |
 | 3.4  | Menu | Button klicken auf Oktal --> Dezimal | OD Fenster |
 | 3.5  | Menu | Button klicken auf Dezimal --> Binär | DB Fenster |
-| 3.6  | Menu | Button klicken auf Hexadezimal --> Dezimal | BD Fenster |
-| 4.1  | Menu | Button irgendwelche Button klicken | Fenster mit Rechnung |
+| 3.6  | Menu | Button klicken auf Binär --> Dezimal | BD Fenster |
+| 4.1  | Menu | Irgendwelche Button klicken | Fenster mit Rechnung |
 | 5.1  | Rechnungsfenster von DH | "Zurück" Button klicken | Menu |
 | 5.2  | Rechnungsfenster von HD | "Zurück" Button klicken | Menu |
 | 5.3  | Rechnungsfenster von DO | "Zurück" Button klicken | Menu |
@@ -55,6 +55,14 @@ Ein Programm mit welchem man verschiedene (benutzerunfreundliche) Zahlensysteme 
 | 8.2  | Rechnungsfenster von OD | 2322 | 1234 |
 | 9.1  | Rechnungsfenster von BD | 11001 | 25 |
 | 9.2  | Rechnungsfenster von DB | 25 | 11001 |
+
+Abkürzungen:
+DH = Dezimal --> Hexadezimal
+HD = Hexadezimal --> Dezimal
+DO = Dezimal --> Oktal
+OD = Oktal --> Dezimal
+DB = Dezimal --> Binär
+BD = Binär --> Dezimal
 
 ### 1.4 Diagramme
 
